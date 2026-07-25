@@ -1,0 +1,13 @@
+{
+  "name": "ga5-mailroom-agent",
+  "version": "1.0.0",
+  "description": "Safe AI Mailroom Action Gate v2",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.2"
+  }
+}
